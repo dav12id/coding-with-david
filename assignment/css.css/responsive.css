@@ -1,0 +1,29 @@
+@media screen and (max-width: 1024px){
+    body{
+        background-color: red;
+    }
+
+    .img-box{
+        width: 30%;
+    }
+
+    .img-box h3{
+       font-size: 18px;
+    }
+
+    .img-box p{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 768px){
+
+}
+
+@media screen and (max-width: 480px){
+
+}
+
+@media screen and (max-width: 320px){
+
+}

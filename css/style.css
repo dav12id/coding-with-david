@@ -1,0 +1,24 @@
+body{
+    font-size: 20px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+}
+
+.logo{
+    width: 200px;
+}
+
+nav{
+    background-color: #848080;
+}
+
+div{
+    /* background-color: red; */
+}
